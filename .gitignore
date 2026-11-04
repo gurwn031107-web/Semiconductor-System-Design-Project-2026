@@ -1,0 +1,17 @@
+# VCS / Verdi 산출물
+build/
+csrc/
+simv*
+*.daidir/
+*.vdb/
+*.fsdb
+*.vcd
+verdiLog/
+novas*
+ucli.key
+vc_hdrs.h
+*.log
+files.f
+
+# Python
+__pycache__/
