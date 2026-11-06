@@ -58,7 +58,7 @@ Verilog 기초 회로부터 Basys-3 주변장치(UART, FIFO, 센서), RV32I CPU�
 | `07_ram_uvm` | 08/31 | 256×8 RAM | write / read 랜덤 검증 + `uvm_subscriber` 기능 커버리지, 데이터 값 커버리지 버전 |
 | `08_fifo_sv_tb` | 09/05 | 8-bit × 16 FIFO | 클래스 테스트벤치, full / empty 경계, 상태 전이 커버리지 버전 |
 
-## ▶ 실행
+## 실행
 
 - **Vivado** (`2026_Verilog_Project`, `03`~`05` SV 프로젝트): 새 프로젝트에 소스, 테스트벤치, `.xdc`를 추가하고 Behavioral Simulation 또는 Basys-3 비트스트림 생성
 - **VCS** (Makefile이 있는 폴더):
